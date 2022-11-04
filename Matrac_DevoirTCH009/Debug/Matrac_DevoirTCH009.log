@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\henri\OneDrive\Documents\ETS COURS A22\Info TCH 009\devoir\Matrac_DevoirTCH009\Matrac_DevoirTCH009\main.c(63,6): warning C4101: 'choix': unreferenced local variable
+C:\Users\henri\OneDrive\Documents\ETS COURS A22\Info TCH 009\devoir\Matrac_DevoirTCH009\Matrac_DevoirTCH009\main.c(70,9): warning C4101: 'altitude_min': unreferenced local variable
+C:\Users\henri\OneDrive\Documents\ETS COURS A22\Info TCH 009\devoir\Matrac_DevoirTCH009\Matrac_DevoirTCH009\main.c(70,23): warning C4101: 'altitude_max': unreferenced local variable
+  matrac_lib.c
+  menu.c
+  Generating Code...
+  Matrac_DevoirTCH009.vcxproj -> C:\Users\henri\OneDrive\Documents\ETS COURS A22\Info TCH 009\devoir\Matrac_DevoirTCH009\Debug\Matrac_DevoirTCH009.exe
